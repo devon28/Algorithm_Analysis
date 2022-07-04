@@ -1,5 +1,5 @@
 # Name: Devon Miller
-# Course: CS 325
+# Course: CS  325
 # Date: 5/14/2022
 # Description: Takes a board game start and end as paramaters goal is to get from
 #               start to end in least possible moves avoiding spaces marked by "#"
